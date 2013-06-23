@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 # fibonacci, f = f-1 + f-2, f0 = 0, f1 = 1;
 
-print ("Hello GITHUB");
+print ("Hello GITHUB GITHUB");
 
 def fib(num):
 	result = 0;
